@@ -1,2 +1,4 @@
 # Zip_code-Validation
 ZipGuard: Interactive Zip Code Validation
+
+\\ The Zip Code Validation Project leverages JavaScript to create a user-friendly web form for validating zip codes. The project employs client-side scripting to dynamically check user-inputted zip codes for correctness and format compliance. The JavaScript function alerts users to invalid characters, incorrect lengths, and enforces proper hyphen usage in 5-digit and 5-digit+4 zip codes. This interactive and responsive solution enhances the user experience by providing real-time feedback during data entry, ensuring accurate zip code submissions. The project contributes to form validation practices, promoting data integrity and user confidence in online address submissions.
